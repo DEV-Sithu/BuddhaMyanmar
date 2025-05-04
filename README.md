@@ -39,3 +39,13 @@ bg_bot_bubble.xml
 
 </LinearLayout>
 ```
+
+
+```
+bguserbubble.xml
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:topLeftRadius="16dp" android:topRightRadius="4dp" android:bottomLeftRadius="16dp" android:bottomRightRadius="16dp"/>
+    <solid android:color="@color/green_500"/>
+</shape>
+```
