@@ -1,6 +1,6 @@
 # BuddhaMyanmar
 
-// build.gradle တွင်
+//build.gradle တွင်
 implementation "io.noties.markwon:core:4.6.2"
 
 // Adapter တွင်
